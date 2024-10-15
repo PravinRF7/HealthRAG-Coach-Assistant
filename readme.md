@@ -17,7 +17,7 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/HealthRAG-Coach-Assistant.git
+   git clone https://github.com/PravinRF7/HealthRAG-Coach-Assistant.git
    cd HealthRAG-Coach-Assistant
    ```
 
