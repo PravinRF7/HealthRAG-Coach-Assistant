@@ -24,7 +24,7 @@
 2. **Install Requirements**
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r reequirements.txt
    ```
 
 3. **Set Up Environment Variables**
